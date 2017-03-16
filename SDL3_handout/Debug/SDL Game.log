@@ -1,0 +1,2 @@
+﻿  ModuleTextures.cpp
+c:\users\genisbs\desktop\sdl3_handout\moduletextures.cpp(72): error C4700: uninitialized local variable 'texture' used
